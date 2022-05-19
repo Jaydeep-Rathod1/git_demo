@@ -18,6 +18,7 @@ class _HomeScreenState extends State<HomeScreen> {
           Text('AAAA DEmo'),
           Text('AAAA DEmo'),
           Text('AAAA DEmo'),
+          Text('Updated DEmo'),
         ],
       ),
     );
